@@ -2,7 +2,6 @@ import 'package:flutter/material.dart';
 import 'package:get/get.dart';
 import 'home.dart';
 import 'next_screen.dart';
-import 'unknown_route.dart';
 
 void main() => runApp(MyApp());
 
